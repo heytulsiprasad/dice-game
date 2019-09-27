@@ -1,3 +1,5 @@
+alert("Hit Refresh to Roll the Dice!");
+
 // Player 1 Rolls
 var randomNumber1 = Math.random();
 var dice1 = Math.floor(randomNumber1 * 6);
