@@ -46,3 +46,11 @@ footer {
 .javascript {
     color: yellow;
 }
+
+.const {
+    margin: 30px;
+    font-family: monospace, cursive;
+    text-shadow: 5px 0 #000000;
+    font-size: 2rem;
+    color: #F5F5F5;
+}
